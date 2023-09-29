@@ -1,0 +1,14 @@
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/bin/Debug/net7.0/exo4
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/bin/Debug/net7.0/exo4.deps.json
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/bin/Debug/net7.0/exo4.runtimeconfig.json
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/bin/Debug/net7.0/exo4.dll
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/bin/Debug/net7.0/exo4.pdb
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/exo4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/exo4.AssemblyInfoInputs.cache
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/exo4.AssemblyInfo.cs
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/exo4.csproj.CoreCompileInputs.cache
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/exo4.dll
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/refint/exo4.dll
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/exo4.pdb
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/exo4.genruntimeconfig.cache
+/Users/benjamin_vimeux/DEV/mydigitalschool/M2/natif/eval/exo4/obj/Debug/net7.0/ref/exo4.dll

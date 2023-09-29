@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.carre {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(253, 131, 255);
+  transition: all 1s;
+  animation-duration: 8s;
+  animation-name: rotate;
+  animation-iteration-count: infinite;
+}
+
